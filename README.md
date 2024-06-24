@@ -24,3 +24,4 @@ Our research needs improvment on documenting our research, and explain what RK4 
 ## Running the Projects
 If you want to try running or modifying our research project, feel free to download the **celestial_mechanics.ipynb** file and run it either on Visual Studio Code (make sure to install Jupyter Notebook extension), Jupyter Notebook, and Google Colab.
 
+img/Celestial_Mechanics_GitHub_Photo.png
